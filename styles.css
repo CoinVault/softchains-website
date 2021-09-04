@@ -3,7 +3,7 @@ html {
 
 body {
     color: white;
-    background-color: #26140A;
+    background-color: #0D0D0D;
     /* font-family: 'Source Sans Pro', sans-serif; */
     font-family: "Open Sans", sans-serif;
     overflow: overlay;
@@ -127,7 +127,7 @@ button:hover,
 }
 
 a {
-    color: #ffc4d0;
+    color: white;
     transition: 0.3s;
 }
 
@@ -163,24 +163,24 @@ footer {
 
 .section-1 {
     padding-top: 2em;
-    background-color: #595047;
+    background-color: #656D73;
 }
 
 .section-2 {
     padding-top: 2em;
-    background-color: #A6978A;
+    background-color: #383D40;
 }
 
 .section-3 {
     padding-top: 2em;
-    background-color: #fec0cb;
+    background-color: #A8B9BF;
     color: black;
 }
 
 .section-4 {
     padding-top: 2em;
     min-height: 400px;
-    background-color: white;
+    background-color: #92A0A6;
     color: #1b1b1b;
 }
 
