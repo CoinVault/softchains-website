@@ -178,6 +178,16 @@ footer {
     color: black;
 }
 
+.section-3 a {
+    background-color: #A8B9BF;
+    color: rgb(27, 27, 27);
+}
+
+.section-3 a:hover {
+    background-color: #A8B9BF;
+    color: black;
+}
+
 .section-4 {
     min-height: 400px;
     background-color: #92A0A6;
